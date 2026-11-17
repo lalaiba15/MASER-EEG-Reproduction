@@ -66,7 +66,9 @@ PhysioNet EEG Motor Movement/Imagery Dataset:
 https://physionet.org/content/eegmmidb/1.0.0/
 
 ## Research Paper
-Add the complete original research paper title, DOI, and permanent URL here.
+Zhang, Y., Yu, Y., Li, H., Wu, A., Zeng, L.-L., & Hu, D. (2024). MASER: Enhancing EEG Spatial Resolution With State Space Modeling. *IEEE Transactions on Neural Systems and Rehabilitation Engineering, 32*, 3858–3868.
+
+**DOI:** https://doi.org/10.1109/TNSRE.2024.3481886
 
 ## Limitations
 This experiment uses only the first 10 subjects and a simplified model architecture. Its results are therefore not directly equivalent to the original paper's experimental results.
