@@ -1,0 +1,18 @@
+
+{
+  "dataset": "PhysioNet EEGMMIDB",
+  "subjects": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+  "runs": [4, 8, 12],
+  "sampling_frequency": 160,
+  "filter_range_hz": [0.5, 40],
+  "window_length_seconds": 1.0,
+  "window_stride_seconds": 0.5,
+  "input_channels": 16,
+  "target_channels": 64,
+  "train_validation_test_split": [0.7, 0.1, 0.2],
+  "batch_size": 16,
+  "epochs": 20,
+  "learning_rate": 0.001,
+  "optimizer": "Adam",
+  "random_seed": 42
+}
