@@ -1,0 +1,4 @@
+
+Metric,Original Paper,Reproduced Model,Difference
+nMSE,0.146,0.149942,0.003942
+PCC,0.922,0.922366,0.000366
